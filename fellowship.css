@@ -1,7 +1,11 @@
 /* fellowship.css */
+body{
+	background-color: coral;
+}
 
 h1 {
 	color: blue;
+  font-family: 'Tangerine';
 }
 
 div.qlander{
@@ -13,3 +17,11 @@ h2.qlander{
 	font-family: Times News Roman;
 	color: purple;
 }
+
+}
+
+
+#erisay{
+	background-color: blue;
+}
+
