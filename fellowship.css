@@ -1,5 +1,7 @@
 /* fellowship.css */
-
+body{
+	background-color: coral;
+}
 h1 {
 	color: blue;
 }
