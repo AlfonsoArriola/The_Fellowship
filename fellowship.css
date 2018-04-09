@@ -5,10 +5,23 @@ body{
 
 h1 {
 	color: blue;
-	font-family: 'Tangerine';
+  font-family: 'Tangerine';
+}
+
+div.qlander{
+	display: inline-block;
+}
+
+h2.qlander{
+	font-size: 45px;
+	font-family: Times News Roman;
+	color: purple;
+}
+
 }
 
 
 #erisay{
 	background-color: blue;
 }
+
